@@ -1,5 +1,6 @@
 
-[![MasterHead](https://github.com/Jahnvi9044/Jahnvi9044/assets/103583793/605374d4-b820-4d80-8eb4-d9a202fd4a45)](https://Jahnvi9044.io)
+[![MasterHead](https://github.com/Jahnvi9044/Jahnvi9044/assets/103583793/dc878c3e-d12a-404d-9b3c-f36ec4d487d9)
+](https://Jahnvi9044.io)
 
 
 
