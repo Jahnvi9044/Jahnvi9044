@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , MERN stack**
 
-- 💬 Ask me about **Java , JavaScript ,ML ,Python, Tailwind, Node.js**
+- 💬 Ask me about **Java ,DSA, Competitive Programming , JavaScript ,ML ,Python, Tailwind, Node.js**
 
 - 📫 How to reach me **jahnvichauarsia481@gmail.com**
 
