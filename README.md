@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Chaurasia</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning **React , MERN stack**
+- 🌱 I’m currently making **Projects on MERN stack**
 
-- 💬 Ask me about **Java ,DSA, Competitive Programming , JavaScript ,ML ,Python, Tailwind, Node.js**
+- 💬 Ask me about **Java ,DSA, Competitive Programming , JavaScript ,ML ,Python, Tailwind, Node.js , React.js , TypeScritp**
 
 - 📫 How to reach me **jahnvichauarsia481@gmail.com**
 
